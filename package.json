@@ -1,0 +1,10 @@
+{
+  "fitbit": {
+    "appUUID": "c9a0dc25-ec35-4c41-b26e-b5c2bcfab3a6",
+    "appType": "clockface",
+    "appDisplayName": "0b1100 O'Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": []
+  }
+}
