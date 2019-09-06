@@ -10,7 +10,7 @@
 import clock from "clock";
 import document from "document";
 
-// Update the clock every minute
+// Update the clock every second
 clock.granularity = "seconds";
 
 // Get a handle on the led elements
