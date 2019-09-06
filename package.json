@@ -1,4 +1,12 @@
 {
+  "name": "0b1100oclock",
+  "description": "0b1100 O'Clock - a Binary Clockface for Fitbit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akosthekiss/0b1100oclock.git"
+  },
+  "author": "Akos Kiss",
+  "license": "BSD-3-Clause",
   "fitbit": {
     "appUUID": "c9a0dc25-ec35-4c41-b26e-b5c2bcfab3a6",
     "appType": "clockface",
