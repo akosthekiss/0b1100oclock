@@ -5,6 +5,19 @@
     "appDisplayName": "0b1100 O'Clock",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
-    "requestedPermissions": []
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "0b1100 O'Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~3.1.0",
+    "@fitbit/sdk-cli": "^1.6.0"
   }
 }
