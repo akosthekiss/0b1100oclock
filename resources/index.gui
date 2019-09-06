@@ -7,7 +7,7 @@
   -- according to those terms.
   -->
 
-<svg class="background">
+<svg viewport-fill="black">
   <defs>
     <symbol id="led">
       <rect x="5%" y="5%" width="90%" height="90%" fill="inherit">
