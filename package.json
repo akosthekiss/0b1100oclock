@@ -15,7 +15,9 @@
     "wipeColor": "",
     "requestedPermissions": [],
     "buildTargets": [
-      "higgs"
+      "higgs",
+      "meson",
+      "gemini"
     ],
     "i18n": {
       "en": {

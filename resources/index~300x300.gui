@@ -1,0 +1,87 @@
+<!--
+  -- Copyright (c) 2019 Akos Kiss.
+  --
+  -- Licensed under the BSD 3-Clause License
+  -- <LICENSE.md or https://opensource.org/licenses/BSD-3-Clause>.
+  -- This file may not be copied, modified, or distributed except
+  -- according to those terms.
+  -->
+
+<svg viewport-fill="black">
+  <defs>
+    <symbol id="led">
+      <rect x="5%" y="5%" width="90%" height="90%" fill="inherit">
+      </rect>
+    </symbol>
+  </defs>
+
+  <use id="h10-8" href="#led" x="8%" y="12%" width="12%" height="12%" />
+  <use id="h10-4" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="h10-2" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="h10-1" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+
+  <use id="h1-8" href="#led" x="20%" y="12%" width="12%" height="12%" />
+  <use id="h1-4" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="h1-2" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="h1-1" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+
+  <use id="m10-8" href="#led" x="38%" y="12%" width="12%" height="12%" />
+  <use id="m10-4" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="m10-2" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="m10-1" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+
+  <use id="m1-8" href="#led" x="50%" y="12%" width="12%" height="12%" />
+  <use id="m1-4" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="m1-2" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="m1-1" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+
+  <use id="s10-8" href="#led" x="68%" y="12%" width="12%" height="12%" />
+  <use id="s10-4" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="s10-2" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="s10-1" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+
+  <use id="s1-8" href="#led" x="80%" y="12%" width="12%" height="12%" />
+  <use id="s1-4" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="s1-2" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+  <use id="s1-1" href="#led" x="$-12%" y="$" width="12%" height="12%" />
+
+  <use id="Y1000-8" href="#led" x="20%" y="72%" width="6%" height="4%" />
+  <use id="Y1000-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y1000-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y1000-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+
+  <use id="Y100-8" href="#led" x="26%" y="72%" width="6%" height="4%" />
+  <use id="Y100-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y100-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y100-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+
+  <use id="Y10-8" href="#led" x="32%" y="72%" width="6%" height="4%" />
+  <use id="Y10-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y10-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y10-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+
+  <use id="Y1-8" href="#led" x="38%" y="72%" width="6%" height="4%" />
+  <use id="Y1-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y1-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="Y1-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+
+  <use id="M10-8" href="#led" x="50%" y="72%" width="6%" height="4%" />
+  <use id="M10-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="M10-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="M10-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+
+  <use id="M1-8" href="#led" x="56%" y="72%" width="6%" height="4%" />
+  <use id="M1-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="M1-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="M1-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+
+  <use id="D10-8" href="#led" x="68%" y="72%" width="6%" height="4%" />
+  <use id="D10-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="D10-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="D10-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+
+  <use id="D1-8" href="#led" x="74%" y="72%" width="6%" height="4%" />
+  <use id="D1-4" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="D1-2" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+  <use id="D1-1" href="#led" x="$-6%" y="$" width="6%" height="4%" />
+</svg>
