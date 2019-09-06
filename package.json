@@ -1,5 +1,6 @@
 {
   "name": "0b1100oclock",
+  "version": "1.0.0",
   "description": "0b1100 O'Clock - a Binary Clockface for Fitbit",
   "repository": {
     "type": "git",
